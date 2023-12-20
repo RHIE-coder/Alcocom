@@ -1,0 +1,15 @@
+{
+  "name": "@alcocom/frontend",
+  "version": "0.0.1",
+  "description": "alcocom frontend",
+  "type":"module",
+  "main": "index.js",
+  "scripts": {
+    "run-test": "node index"
+  },
+  "author": "Seulji-jo",
+  "license": "AGPL-3.0",
+  "dependencies": {
+    "@alcocom/common": "^0.0.1"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "@alcocom/common",
+  "version": "0.0.1",
+  "description": "alcocom common",
+  "main": "main.js",
+  "scripts": {
+    "run-test": "node index"
+  },
+  "author": "rhie-coder",
+  "license": "AGPL-3.0"
+}

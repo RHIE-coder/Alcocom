@@ -1,0 +1,11 @@
+{
+  "name": "@alcocom/backend",
+  "version": "0.0.1",
+  "description": "alcocom backend",
+  "main": "index.js",
+  "scripts": {
+    "run-test": "node index"
+  },
+  "author": "rhie-coder",
+  "license": "AGPL-3.0"
+}
